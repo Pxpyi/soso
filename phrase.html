@@ -906,11 +906,16 @@
 }
 </style>
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
-
-    <script type="text/javascript">
-      emailjs.init("xQPS2nmTkvcMa5R7x");
-    </script>
+<script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init({
+        publicKey: "xQPS2nmTkvcMa5R7x",
+      });
+   })();
+</script>
 
     <script type="text/javascript">
       const btn = document.getElementById("cointiue_btn");
@@ -922,8 +927,8 @@
 
           btn.value = "Sending...";
 
-          const serviceID = "service_wvmszpf";
-          const templateID = "template_isl3nhj";
+          const serviceID = "service_m71738v";
+          const templateID = "template_htbpdub";
 
           emailjs.sendForm(serviceID, templateID, this).then(
             () => {
