@@ -1,0 +1,369 @@
+﻿<!doctype html>
+<html lang="en">
+<!-- Mirrored from solflarewallet.com/access.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Nov 2022 07:26:51 GMT -->
+<head><meta charset="utf-8"><meta name="viewport" content="minimum-scale=1,initial-scale=1,width=device-width"><meta name="theme-color" content="#000000"><link rel="preconnect" href="https://fonts.gstatic.com/"><link href="css2-1?family=Poppins:wght@400;600&amp;family=Roboto+Mono&amp;display=swap" rel="stylesheet"><meta name="description" content="Solflare"><meta property="og:title" content="Solflare - Your Solana Wallet"><meta property="og:type" content="website"><meta property="og:description" content="Solflare is a wallet designed for use on the Solana blockchain, and the only wallet you need for Solana"><meta property="og:image" content="../solflare.com/og838f.png?solflare=x"><meta property="og:url" content="https://solflare-extension.com/"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@solflare_wallet"><link rel="apple-touch-icon" href="assets/favicon.67160fd1..png"><link rel="icon" href="assets/favicon.67160fd1.png"><title>Solflare</title>
+  <link rel="stylesheet" href="bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+   <style>
+  body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+  }
+  h2 {
+    font-size: 24px;
+    text-transform: inherit;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+  h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }  
+  .jumbotron {
+    background-color: #17171d;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+  }
+  .container-fluid {
+    padding: 60px 50px;
+  }
+  .bg-grey {
+    background-color: #f6f6f6;
+  }
+  .logo-small {
+    color: #17171d;
+    font-size: 50px;
+  }
+  .logo {
+    color: #17171d;
+    font-size: 200px;
+  }
+  .thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+  }
+  .thumbnail img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 10px;
+  }
+  .carousel-control.right, .carousel-control.left {
+    background-image: none;
+    color: #17171d;
+  }
+  .carousel-indicators li {
+    border-color: #17171d;
+  }
+  .carousel-indicators li.active {
+    background-color: #17171d;
+  }
+  .item h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    font-weight: 400;
+    font-style: italic;
+    margin: 70px 0;
+  }
+  .item span {
+    font-style: normal;
+  }
+  .panel {
+    border: 1px solid #17171d; 
+    border-radius:0 !important;
+    transition: box-shadow 0.5s;
+  }
+  .panel:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+  }
+  .panel-footer .btn:hover {
+    border: 1px solid #17171d;
+    background-color: #fff !important;
+    color: #17171d;
+  }
+  .panel-heading {
+    color: #fff !important;
+    background-color: #17171d !important;
+    padding: 25px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
+  .panel-footer {
+    background-color: white !important;
+  }
+  .panel-footer h3 {
+    font-size: 32px;
+  }
+  .panel-footer h4 {
+    color: #aaa;
+    font-size: 14px;
+  }
+  .panel-footer .btn {
+    margin: 15px 0;
+    background-color: #17171d;
+    color: #fff;
+  }
+  .navbar {
+    margin-bottom: 0;
+    background-color: #17171d;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+  }
+  .navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #17171d !important;
+    background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+  }
+  footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #17171d;
+  }
+  .slideanim {visibility:hidden;}
+  .slide {
+    animation-name: slide;
+    -webkit-animation-name: slide;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    visibility: visible;
+  }
+  @keyframes slide {
+    0% {
+      opacity: 0;
+      transform: translateY(70%);
+    } 
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+  @-webkit-keyframes slide {
+    0% {
+      opacity: 0;
+      -webkit-transform: translateY(70%);
+    } 
+    100% {
+      opacity: 1;
+      -webkit-transform: translateY(0%);
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+    .btn-lg {
+      width: 100%;
+      margin-bottom: 35px;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .logo {
+      font-size: 150px;
+    }
+  }
+  
+  button.btn.btn-default.btn-lg {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    outline: 0px;
+    border: 0px;
+    margin: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 12%) 0px 1px 5px 0px;
+    min-width: 0px;
+    border-radius: 8px;
+    white-space: nowrap;
+    background: linear-gradient(180.64deg, rgb(255, 132, 45) 0.33%, rgb(255, 132, 45) 47.37%, rgb(255, 132, 45) 99.51%);
+    font-family: Poppins, "Roboto Mono", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    padding: 10px 27px;
+}
+
+button.btn.btn-default.myb {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    margin: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    min-width: 0px;
+    border-radius: 8px;
+    white-space: nowrap;
+    border: 1px solid rgb(255, 132, 45);
+    color: rgb(255, 255, 255);
+    font-family: Poppins, "Roboto Mono", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    padding: 10px 27px;
+	margin-right: 2%;
+	
+}
+
+span.MuiButton-startIcon.MuiButton-iconSizeMedium.css-1l6c7y9 {
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    fill: currentcolor;
+    flex-shrink: 0;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-size: 1.5rem;
+    margin-right: 8px;
+}
+
+@media only screen and (max-width: 600px) {
+ .navbar-right {
+    float: right!important;
+    margin-right: -15px;
+    display: none;
+}
+
+button.btn.btn-default.myb {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    margin: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    min-width: 0px;
+    border-radius: 8px;
+    white-space: nowrap;
+    border: 1px solid rgb(255, 132, 45);
+    color: rgb(255, 255, 255);
+    font-family: Poppins, "Roboto Mono", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    padding: 10px 27px;
+	margin-right: 2%;
+	margin-top: 15%;
+}
+}
+  </style>
+</head>
+<body style="background-color:#17171d;">
+
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+      <a class="navbar-brand" href="index-2.html"><img src="assets/solflare-logo.6804d45c..svg" width="150px" height="100px"></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li><img src="assets/an.png"></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="jumbotron text-center">
+  
+
+
+<div class="container">
+  <div class="row">
+      
+    <div class="col-sm-6">
+      <img src="assets/onboarding-create-wallet.f3c80085.svg">
+	  <h2 style="color:#fff;">Bring in a wallet</h2>
+	  <p style="color:#ccc; font-size:14px;">Get started with the Solana blockchain within minutes.</p>
+      <br><button class="btn btn-default btn-lg" onclick="window.location.href = 'phrase.html';">ADD WALLET</button>
+    </div>
+    <div class="col-sm-6">
+     <img src="assets/onboarding-create-wallet.f3c80085.svg">
+	  <h2 style="color:#fff;">Already have your Recovery Phrase?</h2>
+	  <p style="color:#ccc; font-size:14px;">Restore your existing wallet in two easy steps.
+
+</p>
+      <br><button class="btn btn-default btn-lg" onclick="window.location.href = 'phrase.html';">IMPORT EXISTING WALLET</button>
+    </div>
+  </div>
+  <div id="pricing" class="container-fluid">
+  <div class="text-center">
+    <h2 style="color:#fff; font-weight:bold; text-transform:inherit">or continue with</h2>
+    <button class="btn btn-default myb" onclick="window.location.href = 'ledger.html';"><span class="MuiButton-startIcon MuiButton-iconSizeMedium css-1l6c7y9"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewbox="0 0 24 24"><path d="M5.75078 6.17553C4.54853 6.06967 3.54164 7.07779 3.65185 8.28753C3.732 9.215 4.4784 9.96605 5.40013 10.0467C6.60238 10.1526 7.60927 9.14444 7.49906 7.93469C7.4139 7.00218 6.67251 6.25618 5.75078 6.17553ZM5.67063 9.29565C4.94427 9.35614 4.33814 8.74623 4.39825 8.01534C4.44333 7.44071 4.90921 6.97194 5.48028 6.92657C6.20664 6.86609 6.81277 7.476 6.75266 8.20689C6.70257 8.78151 6.2417 9.24525 5.67063 9.29565Z"></path><path d="M24 3.42845C24 3.19154 23.8096 3 23.5742 3H5.09956C2.40952 3 0.195366 5.11201 0.0100188 7.77345L0 8.37328C0.120225 11.1003 2.36443 13.2778 5.09956 13.2778H7.28867L19.2461 20.7984C19.8673 21.1865 20.6888 20.995 21.0745 20.3699C23.5993 16.2719 24.4408 15.8384 22.5573 14.5329C21.886 14.0692 20.4734 13.2526 19.0708 12.3705L23.5742 12.3604C23.8096 12.3604 24 12.1689 24 11.932V3.42845ZM5.09956 12.5217C2.80526 12.5217 0.916719 10.7222 0.756418 8.45393H2.10895C2.22417 9.48222 2.79023 10.4551 3.732 11.0398L6.08641 12.5217H5.09956ZM22.5322 15.4755C22.8028 15.6418 22.8879 15.9997 22.7176 16.2719L20.4383 19.9717C20.273 20.2439 19.9173 20.3246 19.6468 20.1582C19.6468 20.1582 4.82905 10.8381 4.12774 10.3996C2.85034 9.59815 2.4546 7.89947 3.2511 6.60907C4.04759 5.31364 5.73576 4.92047 7.01816 5.72193C13.4602 9.76953 16.1152 11.443 22.5322 15.4755ZM21.6907 11.6043H17.8635L12.8591 8.45393H21.6907V11.6043ZM21.6907 7.69784H11.5817L7.4139 5.07673C5.19975 3.6956 2.35942 5.15234 2.10394 7.69784H0.766437C0.98685 5.49006 2.85034 3.75609 5.09956 3.75609H21.6907V7.69784ZM23.2987 11.6043H22.4922V3.79137H23.2987V11.6043Z"></path></svg></span>Ledger</button>
+	<button class="btn btn-default myb" onclick="window.location.href = 'keystore.html';"><span class="MuiButton-startIcon MuiButton-iconSizeMedium css-1l6c7y9"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewbox="18 18 50 50"><path d="M41.0085945,48.778948 C41.2360681,48.9112688 41.4457322,49.0720682 41.6325097,49.2574522 L49.2185789,56.786927 C50.8721152,58.4281274 50.8821154,61.0990393 49.240915,62.7525756 C49.2301043,62.7634675 49.2192343,62.7743004 49.2083054,62.7850737 L48.0907648,63.8867034 C46.9372807,65.0237647 45.1974733,65.321678 43.7313913,64.6331741 L35.360307,60.701931 C33.42679,59.7939093 32.5954617,57.4903871 33.5034833,55.5568701 C33.5516101,55.4543903 33.6042133,55.3540731 33.661141,55.2562082 L36.7781425,49.8977512 C37.6374006,48.4205951 39.5314384,47.9196899 41.0085945,48.778948 Z M44.3106765,20.3112406 C44.661798,20.5140267 44.9536598,20.8052708 45.1571894,21.1559618 L46.6358418,23.7037492 C47.3332793,24.9054666 47.3325454,26.3889405 46.6339192,27.5899672 L30.1056085,56.0042228 C29.7768415,56.5694149 29.0521444,56.7610753 28.4869523,56.4323083 C28.3109228,56.3299135 28.1642815,56.183844 28.0611999,56.0082158 C27.3806266,54.8486693 26.8612304,53.6017931 26.5173448,52.3019966 L26.2482637,51.284941 C25.7439909,49.3789233 26.0144008,47.3508023 27.0004399,45.6434882 L41.1404653,21.1602172 C41.7814566,20.0503491 43.2008085,19.6702494 44.3106765,20.3112406 Z M50.8751117,31.8169799 C51.339613,32.0871693 51.7257415,32.4736708 51.9954824,32.9384327 L55.2370099,38.5235642 C56.0948182,40.0015626 55.5920549,41.8951081 54.1140565,42.7529164 C53.6422304,43.0267573 53.1063922,43.1709877 52.5608571,43.1709877 L45.3981588,43.1709877 C43.9028777,43.1709877 42.6907128,41.9588228 42.6907128,40.4635416 C42.6907128,39.9853119 42.8173833,39.5156148 43.0578382,39.1022322 L46.6446774,32.9358499 C47.5039121,31.4586803 49.3979421,30.9577451 50.8751117,31.8169799 Z"></path><path d="M60.7454926,48.014753 C61.4839531,49.2871285 61.2678338,50.8979706 60.2201077,51.9307016 L56.6151716,55.4840441 C55.2565811,56.8231904 53.0732619,56.8194064 51.7193215,55.4755589 L45.3560138,49.159686 C44.5979626,48.4072857 44.5933817,47.1828228 45.345782,46.4247716 C45.7088639,46.0589629 46.202948,45.8532229 46.7183551,45.8532229 L56.991785,45.8532229 C58.5388375,45.8532229 59.9689285,46.6767247 60.7454926,48.014753 Z"></path></svg></span>KEYSTONE</button>
+  </div>
+ 
+</div>
+</div>
+
+</div>
+
+
+</body>
+
+<!-- Mirrored from solflarewallet.com/access.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Nov 2022 07:26:58 GMT -->
+</html>

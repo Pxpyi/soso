@@ -1,0 +1,436 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\ajax\libs\jquery\3.6.0\jquery.min-5.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\npm\@emailjs\browser@3\dist\email.min-2.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\css2-15
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto+Mono&display=swap
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\css2-13
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\css2-14
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg-3.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg-3.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg-3.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg-3.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg-3.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\s\poppins\v22\pxiByp8kv8JHgFVrLCz7V1s-5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\s\poppins\v22\pxiByp8kv8JHgFVrLEj6V1s-5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\s\poppins\v22\pxiEyp8kv8JHgFVrFJA-5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPQw.ttf
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPQw-5.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\bootstrap\3.4.1\css\bootstrap.min-5.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\bootstrap\3.4.1\fonts\glyphicons-halflings-regular-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\bootstrap\3.4.1\fonts\glyphicons-halflings-regular-11.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\bootstrap\3.4.1\fonts\glyphicons-halflings-regular-5.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\bootstrap\3.4.1\fonts\glyphicons-halflings-regular-5.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\bootstrap\3.4.1\fonts\glyphicons-halflings-regular-5.woff
+Content Type: font/woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\bootstrap\3.4.1\fonts\glyphicons-halflings-regular-5.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\bootstrap\3.4.1\js\bootstrap.min-5.js
+Content Type: application/javascript
+
+Uri: https://solflare.com/assets/8yGmbgc5_400x400.e4490792..jpeg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\8yGmbgc5_400x400.e4490792.-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://solflare.com/assets/A-secure-and-powerful-Solana-Walletx2.c6efaf0a..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\A-secure-and-powerful-Solana-Walletx2.c6efaf0a.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/anti-phishing@1.5.6d33be08..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\anti-phishing@1.5.6d33be08.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/app-store.7d7b971d..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\app-store.7d7b971d.-9.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/arrow-left-twitter.d5b0d362..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\arrow-left-twitter.d5b0d362.-9.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com/assets/arrow-right-twitter.e911d67a..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\arrow-right-twitter.e911d67a.-9.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com/assets/buy-store-send-swap@2x.6f948865..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\buy-store-send-swap@2x.6f948865.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/connect-to-solana-dApps@2x.8d69e859..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\connect-to-solana-dApps@2x.8d69e859.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/cta-gradients.f1d68492..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\cta-gradients.f1d68492.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/easy-to-read-activity-history@2x.fbc45480..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\easy-to-read-activity-history@2x.fbc45480.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/get-instant-notifications@2x.36592135..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\get-instant-notifications@2x.36592135.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/gradients.23c76e1c..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\gradients.23c76e1c.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/hero-img-mobile.1bf42891..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\hero-img-mobile.1bf42891.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/jE5pimT__400x400.2e040722..jpeg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\jE5pimT__400x400.2e040722.-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://solflare.com/assets/K-bPAFom_400x400.4ff30519..jpeg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\K-bPAFom_400x400.4ff30519.-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://solflare.com/assets/ledger-love@1.5.b14aaa85..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\ledger-love@1.5.b14aaa85.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/logo-icon-white.406a80a7..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\logo-icon-white.406a80a7.-3.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com/assets/manage-your-NFT-collection@2x.75dbb331..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\manage-your-NFT-collection@2x.75dbb331.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/play-store.2ad41b5d..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\play-store.2ad41b5d.-9.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/purple.a70a7749..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\purple.a70a7749.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/QR-code.cd6abe98..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\QR-code.cd6abe98.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/rpAheeyC_400x400.42d0d099..jpeg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\rpAheeyC_400x400.42d0d099.-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://solflare.com/assets/shape-orange.557de308..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\shape-orange.557de308.-3.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com/assets/solflare-academy.6d6a065c..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\solflare-academy.6d6a065c.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/solflare-live-chat.37373557..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\solflare-live-chat.37373557.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/solflare-logo-white.c53d256d..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\solflare-logo-white.c53d256d.-3.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com/assets/stake-and-earn@2x.9b15a02a..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\stake-and-earn@2x.9b15a02a.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/transaction_simulation@1.5.286f2932..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\transaction_simulation@1.5.286f2932.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/Try-Solflare-now-mobx2.7d4bd1f2..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\Try-Solflare-now-mobx2.7d4bd1f2.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/Try-Solflare-nowx2.d8af6098..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\Try-Solflare-nowx2.d8af6098.-3.png
+Content Type: image/png
+
+Uri: https://solflare.com/assets/twitter-icon.9fa2cf74..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\twitter-icon.9fa2cf74.-3.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com/favicon.ico
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\favicon-2.ico
+Content Type: image/x-icon
+
+Uri: https://solflarewebextensions.com/
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\index-2.htm
+Content Type: text/html
+
+Uri: https://solflarewebextensions.com/access.html
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\access-2.html
+Content Type: text/html
+
+Uri: https://solflarewebextensions.com/assets/activity.6283ca4d..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\activity.6283ca4d.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/an.png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\an-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/anti-phishing.de8722d9..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\anti-phishing.de8722d9.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/app-store.7d7b971d..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\app-store.7d7b971d.-8.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/arrow-left-twitter.d5b0d362..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\arrow-left-twitter.d5b0d362.-8.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/arrow-right-twitter.e911d67a..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\arrow-right-twitter.e911d67a.-8.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/blockrocking-power.f1e50977..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\blockrocking-power.f1e50977.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/carousel-image-phrase.a4e711a6.svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\carousel-image-phrase.a4e711a6-5.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/carousel-image-secure.e97295fe.svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\carousel-image-secure.e97295fe-5.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/carousel-image-write-down.9565a9f3.svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\carousel-image-write-down.9565a9f3-5.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/chat.e57fb750..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\chat.e57fb750.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/connect-dapps.d651de62..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\connect-dapps.d651de62.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/decoration-two.cedb661f..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\decoration-two.cedb661f.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/design-circles.05b6d0a5..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\design-circles.05b6d0a5.-5.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/design-gradient.83c17881..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\design-gradient.83c17881.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/favicon.67160fd1..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\favicon.67160fd1.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/glow.4fb2c873..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\glow.4fb2c873.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/hero-bg.4d513525..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\hero-bg.4d513525.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/hero-decoration.f8de9a54..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\hero-decoration.f8de9a54.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/hero-desktop.b6d336a8..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\hero-desktop.b6d336a8.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/hero-image-extension.ad1def41..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\hero-image-extension.ad1def41.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/hero-image-phone.127ce1c3.png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\hero-image-phone.127ce1c3-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/jE5pimT__400x400.2e040722..jpg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\jE5pimT__400x400.2e040722.-5.jpg
+Content Type: image/jpeg
+
+Uri: https://solflarewebextensions.com/assets/K-bPAFom_400x400.4ff30519..jpg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\K-bPAFom_400x400.4ff30519.-5.jpg
+Content Type: image/jpeg
+
+Uri: https://solflarewebextensions.com/assets/logo-icon.26659b6d..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\logo-icon.26659b6d.-5.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/manage-nfts.345e9f8b..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\manage-nfts.345e9f8b.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/metal1165.png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\metal1165-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/mobile-hero-1.24cfac98..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\mobile-hero-1.24cfac98.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/mobile-hero-2.3a3f5798..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\mobile-hero-2.3a3f5798.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/mobile-hero-3.54b33a6d..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\mobile-hero-3.54b33a6d.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/notifications.403a0ff3..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\notifications.403a0ff3.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/onboarding-create-wallet.f3c80085.svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\onboarding-create-wallet.f3c80085-5.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/phone-andriod.940ad23b..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\phone-andriod.940ad23b.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/phone-iphone.583db473..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\phone-iphone.583db473.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/play-store.2ad41b5d..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\play-store.2ad41b5d.-8.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/pulse-logo.b72c1c50..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\pulse-logo.b72c1c50.-5.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/rpAheeyC_400x400.42d0d099..jpg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\rpAheeyC_400x400.42d0d099.-5.jpg
+Content Type: image/jpeg
+
+Uri: https://solflarewebextensions.com/assets/send-store.05d9c937..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\send-store.05d9c937.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/solflare-logo.6804d45c..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\solflare-logo.6804d45c.-5.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/solrise-finance-logo.5d72c38f..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\solrise-finance-logo.5d72c38f.-5.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/assets/stake-and-earn.3ad3431d..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\stake-and-earn.3ad3431d.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/style.b88d04fb..scss
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\style.b88d04fb.-5.scss
+Content Type: application/octet-stream
+
+Uri: https://solflarewebextensions.com/assets/transaction-simulation.fc4ee070..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\transaction-simulation.fc4ee070.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/twitter-decoration.a0ad945e..png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\twitter-decoration.a0ad945e.-5.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/assets/wallet.6cdd2cb0..svg
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\assets\wallet.6cdd2cb0.-5.svg
+Content Type: image/svg+xml
+
+Uri: https://solflarewebextensions.com/css/landing.8cf866f5478cdbf3ec52.css
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\css\landing.8cf866f5478cdbf3ec52-5.css
+Content Type: text/css
+
+Uri: https://solflarewebextensions.com/css/landing.a72e4cec62d2187e50e8.css
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\css\landing.a72e4cec62d2187e50e8-3.css
+Content Type: text/css
+
+Uri: https://solflarewebextensions.com/done.html
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\done-2.html
+Content Type: text/html
+
+Uri: https://solflarewebextensions.com/images/Error-PNG.png
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\images\Error-PNG-2.png
+Content Type: image/png
+
+Uri: https://solflarewebextensions.com/index-2.html
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\index-2-2.html
+Content Type: text/html
+
+Uri: https://solflarewebextensions.com/landing.63895ac8.js
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\landing.63895ac8-2.js
+Content Type: text/javascript
+
+Uri: https://solflarewebextensions.com/landing.9e9ae151.js
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\landing.9e9ae151-2.js
+Content Type: text/javascript
+
+Uri: https://solflarewebextensions.com/phrase.html
+File Name: C:\Downloaded Web Sites\solflarewebextensions.com\phrase-2.html
+Content Type: text/html
+
